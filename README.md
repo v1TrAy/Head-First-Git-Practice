@@ -9,7 +9,7 @@ Each chapter is represented as a Jupyter Notebook, allowing for interactive lear
 ## 📚 Table of Contents
 
 - [Overview](#overview)
-- [Features](#✨features)
+- [Features](#features)
 - [Getting Started](#getting-started)
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
@@ -18,7 +18,7 @@ Each chapter is represented as a Jupyter Notebook, allowing for interactive lear
 
 ---
 
-## Overview
+📝## Overview
 
 This repository serves as a structured environment to practice and reinforce Git concepts presented in the "Head First Git" book.  
 By working through the exercises, you'll gain hands-on experience with:
