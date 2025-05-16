@@ -9,7 +9,7 @@ Each chapter is represented as a Jupyter Notebook, allowing for interactive lear
 ## 📚 Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
+- [Features](#✨features)
 - [Getting Started](#getting-started)
 - [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
