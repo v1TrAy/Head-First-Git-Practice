@@ -6,16 +6,16 @@ Each chapter is represented as a Jupyter Notebook, allowing for interactive lear
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 
-- [Overview](#📝-overview)
-- [Features](#✨-features)
-- [Getting Started](#🚀-getting-started)
-- [Repository Structure](📁-#repository-structure)
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Repository Structure](#repository-structure)
 
 ---
 
-## 📝 Overview
+##  Overview
 
 This repository serves as a structured environment to practice and reinforce Git concepts presented in the "Head First Git" book.  
 By working through the exercises, you'll gain hands-on experience with:
@@ -30,7 +30,7 @@ The use of Jupyter Notebooks provides an interactive platform to document your l
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Chapter-wise Exercises**: Structured notebooks corresponding to each chapter of the book.
 - **Interactive Learning**: Utilize Jupyter Notebooks to document commands and results.
@@ -39,7 +39,7 @@ The use of Jupyter Notebooks provides an interactive platform to document your l
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To begin working with this repository:
 
@@ -63,7 +63,7 @@ To begin working with this repository:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 The repository is organized as follows:
 
