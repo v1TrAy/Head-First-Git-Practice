@@ -1,5 +1,7 @@
 # Head First Git Practice
 
+![Book Cover](./book-cover.jpg)
+
 Welcome to the **Head First Git Practice** repository!  
 This project is a hands-on companion to the "Head First Git" book, offering practical exercises to deepen your understanding of Git's core concepts.  
 Each chapter is represented as a Jupyter Notebook, allowing for interactive learning and experimentation.
